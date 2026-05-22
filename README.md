@@ -3,7 +3,7 @@
 I started this project in order to better understand the data libraries pandas, xgboost and scikit-learn, and the matplotlib graphics package.
 The goal was to create a functioning regression model that takes in the record of a basketball player's shots as data in order to train itself to spot where said player is most likely (or least likely) to make a shot.
 The model then outputs two images, one shot chart that shows made and missed shots, and a heatmap that shows which shots are most likely to go in the basket.
-The data I used for this project was scraped from nba_api.
+The data I used for this project was scraped from nba_api. I also got inspiration from this Github project: ([https://github.com/slieb74/NBA-Shot-Analysis])
 
 ## Testing Stage
 I wanted to start this project with some tests, to fully understand the scope of the API I was working with. 
