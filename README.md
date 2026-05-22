@@ -40,3 +40,8 @@ After which, the model is saved as a .json file for the Main notebook to analyze
 ## Analysis and Visualization
 Now we are at the final section, where we do visual analysis. I wrote my court visualizations on a different .py file before combining all the functions I'd used in the other notebooks to create a sample analysis.
 The images are then saved in a seperate folder.
+
+### Things to work on for New Release
+- Visualizations for the model's classification report and confusion matrix.
+- Visualizations regarding FG% by zone (preferably as a bar chart)
+
